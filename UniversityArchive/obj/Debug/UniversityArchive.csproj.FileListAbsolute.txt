@@ -1,0 +1,64 @@
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe.config
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.pdb
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.AssemblyReference.cache
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Form1.resources
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Properties.Resources.resources
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.GenerateResource.cache
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.CoreCompileInputs.cache
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.exe
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.pdb
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurGirisForm.resources
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterGirisForm.resources
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurSayfaForm.resources
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterSayfaForm.resources
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EvrakEklemeForm.resources
+C:\Users\nagir\OneDrive\Рабочий стол\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EmanetForm.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe.config
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.pdb
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.AssemblyReference.cache
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EmanetForm.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EvrakEklemeForm.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Form1.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurGirisForm.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurSayfaForm.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Properties.Resources.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterGirisForm.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterSayfaForm.resources
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.GenerateResource.cache
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.CoreCompileInputs.cache
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.exe
+C:\Users\melca\Desktop\gt\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.pdb
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe.config
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.pdb
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.AssemblyReference.cache
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EmanetForm.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EvrakEklemeForm.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Form1.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurGirisForm.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurSayfaForm.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Properties.Resources.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterGirisForm.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterSayfaForm.resources
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.GenerateResource.cache
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.CoreCompileInputs.cache
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.exe
+C:\Users\melca\Desktop\DERS\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.pdb
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe.config
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.exe
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\bin\Debug\UniversityArchive.pdb
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.AssemblyReference.cache
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EmanetForm.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.EvrakEklemeForm.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Form1.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurGirisForm.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.MemurSayfaForm.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.Properties.Resources.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterGirisForm.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.SekreterSayfaForm.resources
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.GenerateResource.cache
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.csproj.CoreCompileInputs.cache
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.exe
+C:\Users\melca\Desktop\DERS\NYP23-24\UniversityArchive\UniversityArchive\obj\Debug\UniversityArchive.pdb
